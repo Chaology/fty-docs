@@ -1,7 +1,10 @@
 export default {
-  logo: <span>My Nextra Documentation</span>,
+  logo: <span>泛图云</span>,
   project: {
-    link: 'https://github.com/shanelau/nextra-getstart'
+    link: 'https://www.fantuyun.com/'
+  },
+  footer: {
+    text: 'Copyright © 2023 泛图云',
   }
   // ...
 }
