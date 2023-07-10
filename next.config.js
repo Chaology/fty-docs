@@ -6,6 +6,6 @@ const withNextra = require('nextra')({
 
 module.exports = {
   ...withNextra(),
-  assetPrefix: "/nextra-getstart",
+  assetPrefix: "/fty-docs",
   images: { unoptimized :true }
 }
