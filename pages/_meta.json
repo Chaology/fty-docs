@@ -1,0 +1,16 @@
+{
+  "index": "简介",
+  "tutorial": "使用教程",
+  "homepage": {
+    "title": "主页",
+    "type": "page",
+    "href": "https://fantuyun.com",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "客服 ↗",
+    "type": "page",
+    "href": "mailto: help@fantuyun.com",
+    "newWindow": true
+  }
+}
