@@ -1,7 +1,7 @@
 {
   "index": "简介",
   "tutorial": "使用教程",
-  "about":{"display":"hidden"},
+  "about":"用户须知",
   "homepage": {
     "title": "主页",
     "type": "page",
